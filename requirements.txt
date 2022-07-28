@@ -1,5 +1,7 @@
 wikiapi
 medcat
-pandas
+1.1.5<=pandas<=1.4.2
 numpy
 requests
+click<=8.0.4
+ipywidgets~=7.6.5
