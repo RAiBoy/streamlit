@@ -1,1 +1,8 @@
-
+wikiapi
+medcat
+pandas
+numpy
+requests
+medcat.cat
+re
+streamlit==1.11.0
