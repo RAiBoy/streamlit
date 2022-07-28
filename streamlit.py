@@ -45,7 +45,7 @@ def method(path):
     return f
 
 def medterm_identify(text):
-    cat = CAT.load_model_pack('medmen_wstatus_2021_oct')
+    cat = CAT.load_model_pack('medmen_wstatus_2021_oct.zip')
     entities = cat.get_entities(text)
 
     med_terms = []
